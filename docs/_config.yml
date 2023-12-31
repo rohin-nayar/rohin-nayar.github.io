@@ -22,8 +22,8 @@ title: Rohin Nayar
 email: rohinnayar5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aeronautical Engineering student at Imperial College London
-  currerntly undertaking a year in industry, woring as an 
-  Advanced Concepts and Robotics intern at Airbus Defence and Space. 
+  on an industrial placement year at Airbus Defence & Space working as
+  as an Advanced Concepts and Robotics intern. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rohin-nayar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
