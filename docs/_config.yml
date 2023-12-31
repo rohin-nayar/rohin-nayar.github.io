@@ -26,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   as an Advanced Concepts and Robotics intern. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rohin-nayar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  rohin-nayar
 
 # Build settings
