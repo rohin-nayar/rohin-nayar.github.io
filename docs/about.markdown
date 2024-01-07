@@ -11,8 +11,3 @@ permalink: /about/
 <p>During my placement year, I am working at Airbus Defence and Space in the Advanced Concepts and Robotics Department as a Robotic Engineer Intern. This experience has provided me with valuable insights into the field of robotics and engineering.</p>
 
 <p>On this page, you'll find weekly posts related to my current interests in robotics and software engineering. I aim to share my experiences, insights, and thoughts on various topics within these fields.</p>
-
-<!-- Feel free to add more content or customize the styling as needed -->
-
-</body>
-</html>
