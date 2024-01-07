@@ -4,14 +4,12 @@ title: Experience
 permalink: /experience/
 ---
 
-<h1 class="display-4 mt-5">Experience</h1>
-<h1 class="bold-text bg-text">Profile</h1>
+<h1 class="bold-text bg-text">Advanced Concepts & Robotics Intern</h1>
 <div class="row d-flex">
 <div class="col-md-10">
 <div class="mt-3">
 <div class="py-4">
 <div class="desc">
-<h4>Advanced Concepts & Robotics Intern</h4>
 <p><a href="https://www.airbus.com/en">Airbus Defence & Space</a></p>
 </div>
 <div>
@@ -26,7 +24,7 @@ permalink: /experience/
 </div>
 <div class="py-4">
 <div class="desc">
-<h4>Machine Learning Researcher</h4>
+<h1 class="bold-text bg-text">Machine Learning Researcher</h1>
 <p><a href="https://www.imperial.ac.uk/plasma-propulsion-lab/">Imperial Plasma Propulsion Laboratory</a></p>
 </div>
 <div>
