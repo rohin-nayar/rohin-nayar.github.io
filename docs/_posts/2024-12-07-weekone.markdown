@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 1 - Forward Thinking Backward Planning"
+date:   2023-12-31 16:45:00 +0000
+categories: jekyll update
+---
+
+The first week of January has been a positive start. I've been focused on building healthy habits and continuing the positive changes from last year. One approach that has really resonated with me is the concept of forward thinking and backward planning.
+
+So, what exactly is forward thinking and backward planning?
+
+I came across this concept from [Nick Bare][Nick-Bare], a podcaster and the founder of Bare Nutrition. The essence is to envision your future, understand where you want to be, and then work backward to plan the milestones and daily habits necessary to reach your goals.
+
+To implement this strategy, I've set up a system using Notion. I've outlined weekly tasks that I review every Sunday. This allows me to reflect on the week by asking three key questions:
+
+<ol>
+    <li>What went well?</li>
+    <li>What didn't go as planned?</li>
+    <li>What changes will I make for the upcoming week?</li>
+</ol>
+
+This routine keeps me accountable and helps me recognize what I can control and modify. As someone prone to overthinking, this process is crucial. It acts as a counterbalance to the times when my thoughts race too fast, preventing becoming overwhelmed and ensuring a manageable approach to implementing forward thinking and backward planning.
+
+[Nick-Bare]: https://www.nickbare.com/

@@ -7,15 +7,23 @@ permalink: /experience/
 <div class="row d-flex">
 <div class="col-md-10">
 <div class="mt-3">
+
 <div class="py-4">
 <div class="desc">
 <h4>Advanced Concepts & Robotics Intern</h4>
-<p><a href="https://www.airbus.com/en">Airbus Defence & Space</a></p>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+
+<div class="container">
+  <p><a href="https://www.airbus.com/en">Airbus Defence & Space</a></p>
+  <p>August 2023 - Present</p>
 </div>
-<div>
-<p>August 2023 - Present</p>
-</div>
-<div>
+
 <ul>
   <li>Architected and helped build a support UI for the VISPA Robotic Manipulator testing application, using MATLAB app designer and Python. This allowed the team to easily visualize unit testing data and compare test results.</li>
   <li>Used Kafka to develop a real-time event-driven application to produce and consume streams of data. Adopted replication and partition methods to decouple system dependencies, allowing for a fault-tolerant platform design; this enabled a high volume of users to use the UI to view data without perceptible lag or performance compromise.</li>
@@ -28,6 +36,7 @@ permalink: /experience/
 <div class="py-4">
 <div class="desc">
 <h4>Machine Learning Researcher</h4>
+
 <style>
   .container {
     display: flex;
