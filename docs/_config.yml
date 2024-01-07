@@ -20,12 +20,9 @@
 
 title: Rohin Nayar
 description: >- # this means to ignore newlines until "baseurl:"
-  Aeronautical Engineering student at Imperial College London
-  on an industrial placement year at Airbus Defence & Space working as
-  as an Advanced Concepts and Robotics intern. 
+  Robotics & Software Engineer 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rohin-nayar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  rohin-nayar
 
 # Build settings

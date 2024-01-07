@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Experience
+permalink: /experience/
 ---
 
 <h1 class="display-4 mt-5">Experience</h1>
@@ -18,9 +18,10 @@ permalink: /projects/
 <p>August 2023 - Present</p>
 </div>
 <div>
-<li> Architected and helped built a support UI for the VISPA Robotic Manipulator testing application, using MATLAB app designer and Python. This allowed the team to easily visualise unit testing data and compare.</li>
-<li> Contributed to pipeline framework and project version control with Bitbucket and Git, debugging performance issues</li>
-<li> Used bash scripting to automate virtual environment for seamless user experience using JFrog Artifactory</li>
+<li> Architected and helped built a support UI for the VISPA Robotic Manipulator testing application, using MATLAB app designer and Python. This allowed the team to easily visualise unit testing data and compare test results.</li>
+<li> Used Kafka, to devlop real-time event driven application to produce and consume streams of data. Adopted replication and partition methods to decople system dependencies, allowing for a fault tolerant platform design; this enabled high volume of users to use UI to view data without perceptile lag or performance compromise</li>
+<li> Used bash scripting and JFrog to automate user repository installation. This streamlined the onboarding process for new contributors.</li>
+<li> Rapid prototyped robotic manipualtor end effector for proof-of-concept demonstration using 3D-printing. Reduced design developmnt time by 2 months, enabling project to move onto testing phase<li>
 </div>
 </div>
 <div class="py-4">
