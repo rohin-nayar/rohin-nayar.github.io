@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 2 - The Confidence Map"
+date:   2024-01-14 17:38:00 +0000
+categories: jekyll update
+---
+
+[The Confidence Map][Confidence-Map] by Peter Atwater is a practical exploration of confidence and its role in shaping personal narratives. Atwater breaks down confidence as a nuanced spectrum of invulnerability and uses a quadrant concept to examine the four environments we encounter in life.
+
+The book provides real-life examples and dialogues to illustrate its points. Atwater encourages readers to evaluate their confidence levels and consider how they articulate their own stories. 
+
+In essence, "The Confidence Map" serves as a direct guide for understanding and utilizing confidence in storytelling and self-discovery. Atwater's pragmatic approach makes it a valuable read for those seeking effective navigation of their personal narratives. Through this process, I've found myself consistently questioning how I would share my story, using these weekly reviews as a tool for discovering hidden interests and learning more about myself.
+
+[Confidence-Map]: https://peteratwater.com/the-confidence-map-2/
