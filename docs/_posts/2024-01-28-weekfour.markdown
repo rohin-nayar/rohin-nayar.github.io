@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 4 - A Practical Guide to Making a Difference"
+date:   2024-01-14 17:38:00 +0000
+categories: jekyll update
+---
+
+In ["What We Owe the Future"][Future], William MacAskill discusses how each person can make a positive impact on the world. The book encourages readers to focus on solving important problems, turning daily work into a meaningful contribution to society. MacAskill highlights the importance of identifying problems that align with personal values, making work more purpose-driven.
+
+The key lesson is finding a meaningful problem and connecting daily efforts to it, transforming work into a purposeful commitment. MacAskill emphasizes using personal experiences and wisdom to address real-world challenges. The book is clear and accessible, combining philosophical reflections with practical advice. Through examples, MacAskill shows how individuals can play a crucial role in shaping a better future.
+
+In summary, "What We Owe the Future" is a practical guide that encourages readers to connect their daily actions to positive societal changes. MacAskill inspires a reevaluation of work, promoting the idea that each person can make a meaningful contribution to the world.
+
+[Future]: https://whatweowethefuture.com/uk/
