@@ -29,6 +29,7 @@ permalink: /experience/
   <li>Used Kafka to develop a real-time event-driven application to produce and consume streams of data. Adopted replication and partition methods to decouple system dependencies, allowing for a fault-tolerant platform design; this enabled a high volume of users to use the UI to view data without perceptible lag or performance compromise.</li>
   <li>Used bash scripting and JFrog to automate user repository installation. This streamlined the onboarding process for new contributors.</li>
   <li>Rapid prototyped a robotic manipulator end effector for proof-of-concept demonstration using 3D printing. Reduced design development time by 2 months, enabling the project to move onto the testing phase.</li>
+  <li>Allocated several projects with an intense workload and delivered to meet production line schedules and meetings with external clients including proviing executive summary presentations to European Space Agency on the enigneering project work.</li>
 </ul>
 
 <div>
@@ -71,7 +72,7 @@ permalink: /experience/
 </style>
 
 <div class="container">
-  <p><a href="https://www.imperial.ac.uk/plasma-propulsion-lab/">Karman Space Programmme</a>
+  <p><a href="https://www.karmanspace.co.uk/">Karman Space Programmme</a>
   </p>
   <p>Sept 2021 - Sept 2023</p>
 </div>
@@ -82,6 +83,8 @@ permalink: /experience/
   <li>Worked on the telemetry system and software data visualization platform to display and collate data. Improved data accessibility and interpretation, facilitating real-time decision-making during missions, contributing to the overall success of the space program.</li>
   
   <li>Received the Advanced Hackspace Hackstarter Grant (£500) to manufacture the avionics system additively, used Autodesk Fusion 360 to design the avionics bay. Proposed innovative manufacturing methods, securing funding for the avionics system, showcasing leadership and creativity in engineering solutions</li>
+
+  <li>Delivered presentation for partnership deal with OneWeb to an audience of 60+ providing an overview of the electronic system design and how we would use their tehcnology for potential future use cases</li>
 </ul>
 
 <div>
@@ -98,7 +101,7 @@ permalink: /experience/
 </style>
 
 <div class="container">
-  <p><a href="https://www.imperial.ac.uk/plasma-propulsion-lab/">Imperial College London, Altitude Record Team</a>
+  <p><a href="https://imperialrocketry.com/">Imperial College London, Altitude Record Team</a>
   </p>
   <p>Sept 2020 - Sept 2023</p>
 </div>
@@ -124,7 +127,7 @@ permalink: /experience/
 </style>
 
 <div class="container">
-  <p><a href="https://www.imperial.ac.uk/plasma-propulsion-lab/">Imperial College London, HyperLoop</a>
+  <p><a href="https://imperial-vehicle-design-society5.webnode.co.uk/">Imperial College London, HyperLoop</a>
   </p>
   <p>Sept 2021 - Sept 2022</p>
 </div>
