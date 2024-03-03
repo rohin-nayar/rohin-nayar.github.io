@@ -24,13 +24,11 @@ permalink: /experience/
   <p>August 2023 - Present</p>
 </div>
 
-<ul>
-  <li>Architected and helped build a support UI for the VISPA Robotic Manipulator testing application, using MATLAB app designer and Python. This allowed the team to easily visualize unit testing data and compare test results.</li>
-  <li>Used Kafka to develop a real-time event-driven application to produce and consume streams of data. Adopted replication and partition methods to decouple system dependencies, allowing for a fault-tolerant platform design; this enabled a high volume of users to use the UI to view data without perceptible lag or performance compromise.</li>
-  <li>Used bash scripting and JFrog to automate user repository installation. This streamlined the onboarding process for new contributors.</li>
-  <li>Rapid prototyped a robotic manipulator end effector for proof-of-concept demonstration using 3D printing. Reduced design development time by 2 months, enabling the project to move onto the testing phase.</li>
-  <li>Allocated several projects with an intense workload and delivered to meet production line schedules and meetings with external clients including proviing executive summary presentations to European Space Agency on the enigneering project work.</li>
-</ul>
+- Designed and built support UI for VISPA Robotic Manipulator testing using MATLAB app designer and Python, enhancing data visualisation and test result comparison.
+- Developed real-time event-driven application with Kafka for seamless data streaming, ensuring fault tolerance and high performance for users.
+- Automated user repository installation with bash scripting and JFrog, simplifying onboarding for new contributors.
+- Prototyped robotic manipulator end effector with 3D printing, cutting design time by 2 months.
+- Managed multiple projects, meeting production schedules and delivering executive presentations to European Space Agency.
 
 <div>
 </div>
@@ -50,13 +48,11 @@ permalink: /experience/
   <p>June 2022 - August 2023</p>
 </div>
 
-<ul>
-  <li>Built machine learning models in Python using TensorFlow and pandas packages to model and identify governing turbulent plasma dynamics, predominantly using pySINDY. The model successfully represented analytical equations with a 96% success rate and provided insightful recognitions of underlying turbulent factors.</li>
+- Developed machine learning models in Python using TensorFlow and pandas, particularly utilising pySINDY, to analyse turbulent plasma dynamics. Achieved a 96% success rate in accurately representing analytical equations and provided valuable insights into turbulent factors.
   
-  <li>Explored feature engineering techniques, leveraging Pareto analysis to identify suitable classifiers, hyperparameters, and ensemble methods for optimal performance. These methods significantly improved accuracy and optimized the model for performance, reducing run time to process more simulation data.</li>
-  
-  <li>Presented research findings to the Plasma Propulsion Laboratory panel, including the supervisor. Contributions aided researchers in adapting and refining models further.</li>
-</ul>
+- Employed feature engineering techniques, including Pareto analysis, to identify optimal classifiers, hyperparameters, and ensemble methods. Significantly improved model accuracy and performance, reducing processing time for simulation data.
+
+- Presented research findings to the Plasma Propulsion Laboratory panel, contributing to further adaptation and refinement of models.
 
 <div>
 </div>
@@ -77,15 +73,13 @@ permalink: /experience/
   <p>Sept 2021 - Sept 2023</p>
 </div>
 
-<ul>
-  <li>Conducted optimization analysis for the electronics system and researched active control systems for a thrust-vectored rocket. Implemented analytical techniques resulting in enhanced electronic system efficiency and propulsion control, crucial for precision in rocket maneuvers.</li>
-  
-  <li>Worked on the telemetry system and software data visualization platform to display and collate data. Improved data accessibility and interpretation, facilitating real-time decision-making during missions, contributing to the overall success of the space program.</li>
-  
-  <li>Received the Advanced Hackspace Hackstarter Grant (£500) to manufacture the avionics system additively, used Autodesk Fusion 360 to design the avionics bay. Proposed innovative manufacturing methods, securing funding for the avionics system, showcasing leadership and creativity in engineering solutions</li>
+- Conducted optimisation analysis for the electronics system and researched active control systems for a thrust-vectored rocket. Implemented analytical techniques to enhance electronic system efficiency and propulsion control, crucial for precise rocket maneuvers.
 
-  <li>Delivered presentation for partnership deal with OneWeb to an audience of 60+ providing an overview of the electronic system design and how we would use their tehcnology for potential future use cases</li>
-</ul>
+- Improved the telemetry system and software data visualisation platform to enhance data accessibility and interpretation, facilitating real-time decision-making during missions and contributing to the success of the space program.
+
+- Secured the Advanced Hackspace Hackstarter Grant (£500) to manufacture the avionics system additively. Used Autodesk Fusion 360 to design the avionics bay and proposed innovative manufacturing methods, showcasing leadership and creativity in engineering solutions.
+
+- Presented electronic system design and potential future use cases to an audience of 60+ for a partnership deal with OneWeb, demonstrating the application of their technology.
 
 <div>
 </div>
@@ -132,11 +126,9 @@ permalink: /experience/
   <p>Sept 2021 - Sept 2022</p>
 </div>
 
-<ul>
-  <li>Organized and led the sensors team to design an onboard vehicle electronics system with vehicle sensors to record vehicle data and presented at the European Hyperloop Week. Led the development of a comprehensive vehicle electronics system, showcasing technical prowess and contributing to the team's successful presentation at a prestigious event.</li>
-  
-  <li>Developed an electronics data acquisition ROS platform to relay live telemetry and vehicle data; provided input to the development process and assisted junior engineers. Pioneered the development of a real-time data acquisition platform, streamlining communication and decision-making, while mentoring and supporting junior engineers in their roles.</li>
+- Organised and led sensors team to design onboard vehicle electronics system with vehicle sensors for recording data. Presented at European Hyperloop Week, showcasing technical prowess and contributing to team's success at prestigious event.
 
-  <li>Collaborated with MIT engineers on the concept design for the sustainable Hyperloop vehicle, working in a multidisciplinary team to develop a strategy and business model.International collaboration brought diverse expertise to the team and contributed to the creation of a sustainable and innovative Hyperloop vehicle sensors design.
-  </li>
+- Developed electronics data acquisition ROS platform for relaying live telemetry and vehicle data. Pioneered real-time data acquisition platform, streamlining communication and decision-making, while mentoring junior engineers.
+
+- Collaborated with MIT engineers on concept design for sustainable Hyperloop vehicle. Worked in multidisciplinary team to develop strategy and business model, bringing diverse expertise to create innovative Hyperloop vehicle sensors design.
   
