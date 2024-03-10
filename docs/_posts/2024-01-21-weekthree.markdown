@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3 - System Design Patterns"
+title:  "System Design Patterns"
 date:   2024-01-21 15:04:00 +0000
 categories: jekyll update
 ---

@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Week 8 - Introduction to Quantitative Modeling"
+title:  "Introduction to Quantitative Modeling"
 date:   2024-02-25 22:51:00 +0000
 categories: jekyll update
 ---
-
-# Introduction to Quantitative Modeling
 
 Quantitative modeling is a powerful tool used across various fields to understand, analyze, and make predictions about complex systems and processes. It involves the use of mathematical and statistical techniques to represent real-world phenomena, enabling decision-makers to gain insights and optimize outcomes. In this article, we will explore key concepts and methodologies involved in quantitative modeling, including empirical versus theoretical models, deterministic versus probabilistic models, and various modeling techniques such as regression analysis, Monte Carlo simulation, and Markov Chains.
 

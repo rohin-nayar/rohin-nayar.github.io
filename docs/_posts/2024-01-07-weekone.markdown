@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 - Forward Thinking Backward Planning"
+title:  "Forward Thinking Backward Planning"
 date:   2024-01-07 16:45:00 +0000
 categories: jekyll update
 ---

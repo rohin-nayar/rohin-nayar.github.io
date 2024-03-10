@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2 - The Confidence Map"
+title:  "The Confidence Map"
 date:   2024-01-14 17:38:00 +0000
 categories: jekyll update
 ---
