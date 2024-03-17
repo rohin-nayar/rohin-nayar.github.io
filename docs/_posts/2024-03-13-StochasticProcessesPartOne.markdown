@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stochastic Processes Series - Part 1"
+title:  "Stochastic Processes Series: Part 1"
 date:   2024-03-13 17:52:00 +0000
 categories: jekyll update
 ---
