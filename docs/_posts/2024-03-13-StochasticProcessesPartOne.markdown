@@ -26,7 +26,7 @@ As part of the ongoing development of the Financial Modeling library, a Python s
 
 The following sections delve into each of these methods, providing insights into their applications and implications in financial modeling.
 
-![Brownian Motion](images/BrownianMotion.png)
+![Brownian Motion](../images/BrownianMotion.png)
 
 
 [Pricing-Of-Options]: https://www.worldscientific.com/doi/epdf/10.1142/9789814759588_0001
