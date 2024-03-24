@@ -26,7 +26,7 @@ url: "https://rohin-nayar.github.io" # the base hostname & protocol for your sit
 github_username:  rohin-nayar
 
 # Build settings
-remote_theme: moonwalk
+theme: minima
 plugins:
   - jekyll-feed
 
