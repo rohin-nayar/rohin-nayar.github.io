@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project Radon
+title: Rohin Nayar
 description: >- # this means to ignore newlines until "baseurl:"
-  Robotics & Software Engineer 
+  Aerospace Engineering Undergraduate 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rohin-nayar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rohin-nayar
 
 # Build settings
-theme: minima
+remote_theme: moonwalk
 plugins:
   - jekyll-feed
 
