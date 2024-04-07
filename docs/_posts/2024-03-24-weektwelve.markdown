@@ -4,7 +4,6 @@ title:  "Finanical Market: Bullet Movements"
 date:   2024-03-24 12:27:00 +0000
 categories: jekyll update
 ---
-
 ## Weekly Market Insights
 
 #### Bank of Japan Adjusts Interest Rates
