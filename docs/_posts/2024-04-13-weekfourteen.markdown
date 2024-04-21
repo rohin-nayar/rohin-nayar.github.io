@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finanical Market: Bullet Movements"
+title:  "Bullet Movements: Market Volatility Strategies"
 date:   2024-04-13 13:35:00 +0000
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finanical Market: Bullet Movements"
+title:  "Bullet Movements: Mortgage Market Challenges"
 date:   2024-04-21 17:54:00 +0000
 categories: jekyll update
 ---
